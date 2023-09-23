@@ -1,0 +1,8 @@
+web gunicorn app:app  #第一個對應py檔；第二個對應變數名稱
+
+
+
+
+
+
+#Heroku:雲端主機
